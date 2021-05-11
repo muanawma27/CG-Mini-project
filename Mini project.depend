@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1574274964 source:d:\cg\mini project\main.cpp
+	<iostream>
+	<math.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<cstring>
+	<windows.h>
+	<mmsystem.h>
+
